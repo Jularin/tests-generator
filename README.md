@@ -3,7 +3,7 @@ Generating and parsing tests for c++ structures
 
 # Зависимости
 python3
-[Скачать для windows](python.org)
+[Скачать для windows](https://www.python.org/)
 ![image](https://user-images.githubusercontent.com/58310353/114459082-b9fcc300-9be8-11eb-86c3-6675f28511dc.png)
 
 # Генерация тестов
